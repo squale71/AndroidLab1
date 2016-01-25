@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Lab 1: Jax Quiz</string>
+
+    <!-- Labels -->
+    <string name="confirmation_string">Are you sure you want to do this?</string>
+    <string name="hint_true">The answer is true</string>
+    <string name="hint_false">The answer is false</string>
+
+    <!-- Buttons -->
+    <string name="true_value">True</string>
+    <string name="false_value">False</string>
+    <string name="next">Next</string>
+    <string name="show_answer">Show Answer</string>
+    <string name="hint_button">Give me a hint!</string>
+
+    <!-- Questions -->
+    <string name="question_one">Jacksonville is the largest city in the continental United States by land mass.</string>
+    <string name="question_two">Jacksonville is the capital of Florida</string>
+    <string name="question_three">Lynard Skynard is from Jacksonville</string>
+
+    <!-- Answer Text Field -->
+    <string name="answer_text">Correct / Incorrect</string>
+    <string name="correct_text">Correct!</string>
+    <string name="incorrect_text">Incorrect...</string>
+</resources>
